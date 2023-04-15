@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Submission-dicoding</string>
+    <string name="hilda">Hildatul Wardah</string>
+    <string name="about">about</string>
+    <string name="name_university">Stanford University</string>
+    <string name="score">score</string>
+    <string name="description">Kampus yang dipercaya berdiri sejak 1096 ini membagi keilmuan yang diajarkan ke dalam empat divisi, yaitu Humanities, Mathematical, Physical and Life Sciences, Medical Sciences, dan Social Sciences. Totalnya, terdapat sekitar 100 jurusan yang dimiliki universitas yang didapuk sebagai kampus terbaik di dunia pada tahun 2022 oleh THE.</string>
+    <string name="teaching">Indikator Pengajaran</string>
+    <string name="content_specs_teaching">91.0</string>
+    <string name="share">Share</string>
+    <string name="email">Hildatulwardah@students.unnes.ac.id</string>
+
+</resources>
